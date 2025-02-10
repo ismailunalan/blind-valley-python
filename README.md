@@ -12,3 +12,8 @@ To execute the program, use the following command:
 
 ```bash
 python3 blind_valley.py input.txt output.txt
+
+## 📄 Project Documentation
+For detailed project requirements and problem definition, refer to the official assignment document:
+
+📂 [docs/BBM103_F23_PA4_v1.pdf](docs/BBM103_F23_PA4_v1.pdf)
